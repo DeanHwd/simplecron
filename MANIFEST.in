@@ -1,0 +1,3 @@
+recursive-include neuclis/static *
+recursive-include neuclis/templates *
+recursive-include neuclis/task *
